@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "syllabi-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
